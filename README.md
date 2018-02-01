@@ -1,5 +1,5 @@
-# DataScienceBowl2018
-Team BAH_natomy for the 2018 Data Science Bowl competition on Kaggle.
+# TwoSnacks 2018
+Team BAH_natomy (two snack squad) for the 2018 ~~Data Science Bowl~~ competition on Kaggle.
 
 ## Wiki
 "See the wiki for the good stuff ;)" - Josh Baker 2017
