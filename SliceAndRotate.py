@@ -65,7 +65,7 @@ def SliceAndRotate(arrayIn):
         
         # now concatenate them along the 0th axis
         all_tfms = np.concatenate(tuple(all_tfms), axis = 0)
-        arrayOut[ n : (n+32) ] = all_tfms
+        arrayOut[ 32*n : (32*(n+1)) ] = all_tfms
     
     return arrayOut
         
