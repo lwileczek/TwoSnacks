@@ -1,3 +1,4 @@
+
 def SliceAndRotate(arrayIn):
     # This function takes 4-channel images, slices them to quadrants,
     # rotates rotates and flips each quadrant, and scales them to the
